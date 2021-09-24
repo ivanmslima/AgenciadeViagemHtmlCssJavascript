@@ -1,2 +1,2 @@
 # AgenciadeViagemHtmlCssJavascript
-Agencia de viagem com formulário usando Javascript
+Agencia de viagem com formulário usando JavaScript
